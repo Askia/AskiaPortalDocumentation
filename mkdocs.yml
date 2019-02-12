@@ -1,0 +1,38 @@
+site_name: Askia Documentation
+site_url: https://github.com/Askia/AskiaPortal/wiki
+site_description: Askia Online documentation
+site_author: Stephen, Jérome, Ben et al.
+site_dir: site
+repo_name: 'Askia/AskiaPortalDocumentation'
+repo_url: https://github.com/Askia/AskiaPortalDocumentation
+use_directory_urls: true
+
+markdown_extensions:
+    - toc:
+        permalink: true
+    - footnotes
+    - admonition
+    - pymdownx.arithmatex
+    - pymdownx.details
+    - pymdownx.keys
+    - pymdownx.snippets:
+        check_paths: true
+        base_path: docs/_snippets
+    - pymdownx.emoji:
+        emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.tasklist:
+        custom_checkbox: true
+
+theme: 
+  name: material
+  logo:
+    icon: 'poll'
+  palette:
+    primary: 'indigo'
+    accent: 'red'
+  language: en
+  feature:
+    tabs: true
+copyright: Copyright &copy; 2019 <a href="https://askia.com/">Askia SAS</a>.
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'

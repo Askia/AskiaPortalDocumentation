@@ -11,13 +11,6 @@ markdown_extensions:
     - toc:
         permalink: true
     - footnotes
-    - admonition
-    - pymdownx.arithmatex
-    - pymdownx.details
-    - pymdownx.keys
-    - pymdownx.snippets:
-        check_paths: true
-        base_path: docs/_snippets
 
 theme: 
   name: material

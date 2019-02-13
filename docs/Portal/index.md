@@ -3,7 +3,7 @@
 
 ## What is Portal
 
-Portal is Askia's single entrypoint to all applications (they are now called Modules). 
+Portal is Askia's single entrypoint to all applications (they are called Modules). 
 Its purpose is 
 
  * to host Modules
@@ -11,8 +11,6 @@ Its purpose is
  * to provide a single sharing interface
  * to allow cross-module workflows
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ## Concepts
 
 ### Users

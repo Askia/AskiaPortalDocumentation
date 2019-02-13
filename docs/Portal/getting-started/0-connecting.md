@@ -1,16 +1,22 @@
-# Connecting
+# Getting started
 
+During this tutorial, we will create a single user and set their workspace according to my company's policies.
 
-## Signing in
+## Connecting 
+
+### Signing in
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-## Register
-
-If you have not been invited to the platform
+!!! Tip
+    You can open multiple browser tabs to Askia Online simultaneously
 
 
-## Reset your password
+### Register
+
+If you have not been invited to the platform, bla
+
+
+### Reset your password
 
 By clicking the "forgot password" button

@@ -35,5 +35,3 @@ Groups have one or several Managers. Being a Manager of a group grants invitatio
 
 ### Shares
 
-### Web hooks
-
